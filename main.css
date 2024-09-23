@@ -1,0 +1,648 @@
+* {
+    text-decoration: none;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+
+.btn:active {
+    font-size: 15.2px;
+
+}
+
+.btn {
+    border-radius: 6px;
+    background: #101010;
+    color: white;
+    text-align: center;
+    padding: 12px 24px;
+    font-family: Plus Jakarta Sans;
+    font-size: 14px;
+    border: none;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.nav-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-right {
+    display: flex;
+    gap: 50px;
+}
+
+ul:active {
+    font-size: 20px;
+    font: bold;
+}
+
+
+
+ul {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    text-align: center;
+    color: black;
+}
+
+a {
+    color: black;
+    font-weight: 500;
+}
+
+nav {
+    padding: 30px 0;
+    border-bottom: 1px solid grey;
+}
+
+h1 {
+    width: 550px;
+    height: 234px;
+    color: #101010;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 56px;
+    font-weight: 700;
+    margin-bottom: 60px;
+}
+
+h3 {
+    width: 537px;
+    font-size: 56px;
+    color: #636F87;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    padding-top: 20px;
+
+}
+
+.df {
+    display: flex;
+    margin-top: 91px;
+}
+
+.btnn {
+    background-color: #1AAB7B;
+    border: none;
+    color: white;
+    height: 59px;
+    width: 160px;
+    margin-top: 40px;
+    border-radius: 6px;
+}
+
+header {
+    background-color: white;
+}
+
+body {
+    background-color: white;
+}
+
+section {
+    background: #F2F4F6;
+}
+
+.how {
+    font-size: 30px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    margin-left: 615px;
+    padding-bottom: 50px;
+    margin-top: 30px;
+    padding: -30px 0px 10px 10px;
+}
+
+.video {
+    padding-right: 112px;
+}
+
+.card:hover {
+    color: white;
+
+}
+
+.rasm {
+    margin-top: 47px;
+    margin-left: 306px;
+    margin-bottom: -30px;
+}
+
+
+.cards {
+    color: white;
+    width: 384px;
+    height: 358px;
+    border-radius: 6px;
+    background: white;
+    margin-right: -112px;
+    margin: 0 auto;
+    transition: 0.4s;
+    border-radius: 6px;
+    border: 2px solid #E1E7ED;
+
+}
+
+.container {
+    display: flex;
+}
+
+.btn {
+    margin-left: 719px;
+}
+
+
+
+.container2 {
+    display: flex;
+    gap: 30px;
+    margin-top: -20px;
+}
+
+.cardsss {
+    border-radius: 6px;
+    border: 2px solid #E1E7ED;
+
+    width: 384px;
+    height: 358px;
+    border-radius: 6px;
+    background: white;
+    margin-right: -2px;
+}
+
+.cardss {
+    border-radius: 6px;
+    border: 2px solid #E1E7ED;
+    width: 384px;
+    height: 358px;
+    border-radius: 6px;
+    background: white;
+    margin-right: -5px;
+}
+
+.cardds {
+    border-radius: 6px;
+    border: 2px solid #E1E7ED;
+    width: 384px;
+    height: 358px;
+    border-radius: 6px;
+    background: white;
+    margin-left: 10px;
+    margin-top: 30px;
+    color: black;
+}
+
+.card:hover {
+    background-color: #1AAB7B;
+}
+
+.card:hover h4 {
+    color: white;
+}
+
+.card:hover h5 {
+    color: white;
+}
+
+.card:hover a {
+    color: white;
+}
+
+.card:hover p {
+    background-color: white;
+}
+
+.carddss:hover {
+    background-color: #1AAB7B;
+}
+
+.carddss:hover h3 {
+    color: white;
+}
+
+.carddss:hover h5 {
+    color: white;
+}
+
+.carddss:hover a {
+    color: white;
+}
+
+.carddss:hover p {
+    background-color: white;
+}
+
+.cardss:hover {
+    background-color: #1AAB7B;
+}
+
+.cardss:hover h4 {
+    color: white;
+}
+
+.cardss:hover h5 {
+    color: white;
+}
+
+.cardss:hover a {
+    color: white;
+}
+
+.cardss:hover p {
+    background-color: white;
+}
+
+.cardsss:hover {
+    background-color: #1AAB7B;
+}
+
+.cardsss:hover h3 {
+    color: white;
+}
+
+.cardsss:hover h5 {
+    color: white;
+}
+
+.cardsss:hover a {
+    color: white;
+}
+
+.cardsss:hover p {
+    background-color: white;
+}
+
+.carddss {
+    border-radius: 6px;
+    border: 2px solid #E1E7ED;
+    width: 384px;
+    height: 358px;
+    border-radius: 6px;
+    background: white;
+    margin-left: -4px;
+    margin-top: 30px;
+}
+
+.container3 {
+    display: flex;
+    gap: 30px;
+}
+
+.text {
+    text-align: center;
+    margin-bottom: 30px;
+    align-items: center;
+    justify-content: center;
+    width: 217px;
+    height: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: black;
+    padding-bottom: -100px;
+    margin-top: -27px;
+
+}
+
+.text2 {
+    text-align: center;
+    margin-bottom: 30px;
+    align-items: center;
+    justify-content: center;
+    width: 324px;
+    height: 135px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: black;
+    padding: -30px 0px;
+}
+
+
+.textt {
+    text-align: center;
+    margin-bottom: 30px;
+    align-items: center;
+    justify-content: center;
+    width: 217px;
+    height: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: black;
+    padding-bottom: -100px;
+}
+
+.textt2 {
+    text-align: center;
+    margin-bottom: 30px;
+    align-items: center;
+    justify-content: center;
+    width: 324px;
+    height: 135px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: black;
+    padding: -30px 0px;
+}
+
+.atag {
+    font-family: Plus Jakarta Sans;
+    color: black;
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    font-family: Plus Jakarta Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 140%;
+    /* 28px */
+
+}
+
+.line {
+    background-color: white;
+    width: 100px;
+    height: 2px;
+    margin-left: 20px;
+
+}
+
+.texttt1 {
+
+    text-align: center;
+
+    width: 324px;
+    height: 135px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: black;
+    margin-bottom: 40px;
+    margin-left: -30px;
+    padding-bottom: 40px;
+    margin-top: -20px;
+}
+
+.texttttttt {
+    text-align: center;
+    margin-bottom: 30px;
+    align-items: center;
+    justify-content: center;
+    width: 324px;
+    height: 135px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: black;
+    padding: -30px 0px;
+    margin-top: -75px;
+}
+
+.atagg {
+    color: black;
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    color: #000;
+    font-family: Plus Jakarta Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 140%;
+    /* 28px */
+
+}
+
+.texts8 {
+    text-align: center;
+
+    width: 324px;
+    height: 135px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: black;
+    margin-bottom: 40px;
+    margin-left: -30px;
+    padding-bottom: 40px;
+    margin-top: -20px;
+}
+
+.textsbig {
+    text-align: center;
+    margin-bottom: 30px;
+    align-items: center;
+    justify-content: center;
+    width: 324px;
+    height: 135px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: black;
+    padding: -30px 0px;
+    margin-top: -75px;
+}
+
+.finish {
+    text-align: center;
+
+    width: 324px;
+    height: 135px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: black;
+    margin-bottom: 40px;
+    margin-left: -30px;
+    padding-bottom: 40px;
+    margin-top: -20px;
+}
+
+.finish1 {
+    text-align: center;
+    margin-bottom: 30px;
+    align-items: center;
+    justify-content: center;
+    width: 324px;
+    height: 135px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: black;
+    padding: -30px 0px;
+    margin-top: -75px;
+}
+
+.text:hover {
+    color: white;
+}
+
+.card {
+    color: black;
+    width: 384px;
+    height: 358px;
+    border-radius: 6px;
+    background: white;
+    margin-left: 9px;
+
+}
+
+span:hover {
+    background-color: white;
+}
+
+.linew {
+    background-color: white;
+    width: 100px;
+    height: 2px;
+    margin-left: 20px;
+}
+
+.cardds:hover {
+    background-color: #1AAB7B;
+}
+
+.cardds:hover h3 {
+    color: white;
+}
+
+.cardds:hover h5 {
+    color: white;
+}
+
+.cardds:hover a {
+    color: white;
+}
+
+.cardds:hover p {
+    background-color: white;
+}
+
+.yozuv {}
+
+.mt {
+    background: #FFF;
+    padding-top: 50px;
+    margin-top: 65px;
+    gap: 50px;
+}
+
+.yozuvv {
+    color: #101010;
+    text-align: center;
+    font-family: Plus Jakarta Sans;
+    font-size: 31px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 65px;
+    width: 411px;
+    margin: 0 auto;
+}
+
+.random {
+    font-size: 30px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    margin-top: -16px;
+    padding-top: -16px;
+
+
+
+}
+
+.card {
+    border-radius: 6px;
+    border: 2px solid #E1E7ED;
+}
+
+.lineee {
+    background-color: #F2F4F6;
+}
+
+.finishtext {
+
+    margin-top: -20px;
+    color: #636F87;
+    width: 600px;
+    margin: 10 auto;
+    margin-left: 470px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.rasm10 {
+    margin-top: 60px;
+    margin-left: 112px;
+}
+
+.fa-user {}
+
+.fa-figma {
+    margin-top: 47px;
+    margin-left: 306px;
+    margin-bottom: -30px;
+    font-size: 30px;
+}
+
+.fa-code {
+    margin-top: 47px;
+    margin-left: 306px;
+    margin-bottom: -30px;
+    font-size: 30px;
+}
+
+.cardss:hover {
+    color: white;
+    background-color: #1AAB7B;
+}
+
+.fa-person {
+    margin-top: 47px;
+    margin-left: 306px;
+    margin-bottom: -30px;
+    font-size: 30px;
+}
+
+.text {
+    margin-top: -30px;
+}
+
+.yozuvlar {
+    margin-top: -50px;
+}
+
+.cardsss:hover i {
+    color: white;
+}
+
+.fa-windows {
+    margin-top: 47px;
+    margin-left: 306px;
+    margin-bottom: -30px;
+    font-size: 30px;
+}
+
+.cardds:hover i {
+    color: white;
+}
+
+.fa-google {
+    margin-top: 47px;
+    margin-left: 306px;
+    margin-bottom: -30px;
+    font-size: 30px;
+}
+
+.carddss:hover i {
+    color: white;
+}
+
+
+
+
+
+.btnn:active{
+    background-color:white ;
+    transition: 0.4s;
+}
